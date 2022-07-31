@@ -7,7 +7,7 @@
 
 Citizen.CreateThread(function()
 
-	local minimap = RequestScaleformMovie("minimap")
+    local minimap = RequestScaleformMovie("minimap")
 
     SetRadarBigmapEnabled(true, false)
 
